@@ -1,3 +1,6 @@
+# The correct code is already added in the tasks.py file so I left it like that.
+# I also added the kaggle notebook with all the answers to the repository
+
 import numpy as np  # linear algebra
 import pandas as pd  # data processing, CSV file I/O (e.g. pd.read_csv)
 from scipy.optimize import minimize  # Python version of R's optim() function
